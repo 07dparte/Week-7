@@ -1,0 +1,9 @@
+.jumbotron {
+    background: rgb(254,254,254);
+    background: linear-gradient(90deg, rgba(254,254,254,1) 0%, rgba(181,51,159,1) 35%, rgba(0,212,255,1) 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: 0;
+   }
